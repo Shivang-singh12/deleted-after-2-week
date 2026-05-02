@@ -1,0 +1,54 @@
+AMAZON SALES ANALYSIS REPORT
+Period: 01 Jan 2026 – 31 Jan 2026  |  Currency: INR
+
+==================================================
+SECTION 1: SALES SUMMARY
+==================================================
+
+Metric,Amount (INR)
+Gross Product Sales (70 orders),20197.6
+Less: Returns (8 units),-2041.07
+Net Sales (62 net units),18156.53
+
+FEES & DEDUCTIONS,Amount (INR)
+Easy Ship / Postage Fees,-2839.08
+Referral Fees,-358.9
+Sponsored Products (Ads),-7350.14
+Total Fees,-10548.12
+
+NET PROCEEDS TO SELLER,7138.77
+
+UNITS SUMMARY,Count
+Units Sold,70
+Units Returned,8
+Net Units Sold,62
+
+
+==================================================
+SECTION 2: PRODUCT-BY-PRODUCT BREAKDOWN
+==================================================
+
+Product (MSKU),Units Sold,Returns,Net Units,Avg Price (INR),Net Sales (INR),Easy Ship (INR),Referral Fee (INR),Ad Spend (INR),Net Proceeds (INR),ACOS (%)
+HX-MF1200-01-40x60,46,5,41,282.08,11562.36,1841.19,0.0,7113.75,2448.12,61.5%
+HX-MF1200-03-40x60,3,0,3,846.67,2540.01,225.38,136.37,0.0,2138.14,—
+HX -MF1200-01-40*40,8,2,6,215.92,1299.88,148.68,0.0,0.0,1076.86,—
+HX-MF1200-02-40x60,2,0,2,608.57,1217.14,153.4,196.04,236.39,551.07,19.4%
+MHX-CarWashGlove-01,2,0,2,237.14,474.28,96.37,0.0,0.0,370.83,—
+HX-MF1200-02-40x40 4,1,0,1,427.62,427.62,76.7,26.49,0.0,311.45,—
+HX -MF800-03-40*40,1,0,1,275.24,275.24,76.7,0.0,0.0,191.46,—
+HX -MF350-01-40*40,6,0,6,60.0,360.0,148.68,0.0,0.0,190.08,—
+HX-MF800-02-40x40,0,0,0,0.0,0.0,0.0,0.0,0.0,-7.08,—
+HX -MF350-04-40*40,1,1,0,200.23,0.0,71.98,0.0,0.0,-132.16,—
+TOTAL,70,8,62,—,18156.53,2839.08,358.9,7350.14,7138.77,40.5%
+
+
+==================================================
+SECTION 3: KEY INSIGHTS & RECOMMENDATIONS
+==================================================
+
+Insight,Detail
+HIGH ACOS Alert,HX-MF1200-01-40x60: INR 7113.75 ad spend vs INR 11562.36 net sales = 61.5% ACOS. Review ad campaigns immediately.
+Loss-Making SKUs,HX-MF800-02-40x40 (lost INR 7.08); HX -MF350-04-40*40 (lost INR 132.16)
+Best Margin SKU (No Ads),HX-MF1200-03-40x60: INR 2138.14 net proceeds from 3 units with ZERO ad spend.
+Easy Ship Cost Share,Total Easy Ship fees: INR 2839.08 = 14.1% of gross sales.
+Overall Ad Spend,Total ad spend INR 7350.14 = 40.5% of total net sales. CRITICAL — reduce spend.

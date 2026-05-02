@@ -1,0 +1,67 @@
+========================================================
+HOMNIX REPORT GENERATOR - User Guide
+========================================================
+
+This script generates a detailed PDF business report from your Amazon 
+Seller Central "Business Reports" Excel/CSV files.
+It helps you analyze your sales, returns, and true profitability 
+(factoring in your manufacturing/sourcing costs or "COGS").
+
+---
+1. REQUIREMENTS
+---
+You need Python installed on your computer, along with these libraries:
+- pandas
+- openpyxl
+- reportlab
+
+To install them, open your terminal (Command Prompt or PowerShell) and run:
+`pip install pandas openpyxl reportlab`
+
+--- YHA SE PADO BETA LOG--
+2. GETTING YOUR AMAZON DATA
+---
+1. Go to Amazon Seller Central -> Reports -> Business Reports
+2. Select "Detail Page Sales and Traffic by Child Item"
+3. Choose your date range (e.g., last month)
+4. Click "Download" and save the file (typically an Excel or CSV file).
+   Rename it to something easy like: `report_2026-03-15.xlsx`
+
+---
+3. ADDING YOUR COGS (Manufacturing Costs)
+---
+To see your "True Profit", the script needs to know how much each item costs you 
+to make/buy (Cost of Goods Sold or COGS).
+
+a) If you don't have a COGS file yet, let the script make a blank one for you:
+   `python homnix_report_main.py report_2026-03-15.xlsx --create-cogs`
+   
+   This will create a `homnix_cogs.csv` file.
+
+b) Open `homnix_cogs.csv` in Excel.
+c) Fill in the `cogs_per_unit` column with your cost for each ASIN.
+d) Save and close the file.
+
+---
+4. RUNNING THE SCRIPT
+---
+Open your terminal, navigate to the folder with the script, and run the command.
+
+SCENARIO A: Run with your Amazon report AND your COGS file (Recommended):
+`python homnix_report_main.py report_2026-03-15.xlsx homnix_cogs.csv`
+
+SCENARIO B: Run without COGS (only shows gross sales, skips true profit):
+`python homnix_report_main.py report_2026-03-15.xlsx`
+
+---
+5. VIEWING THE RESULTS
+---
+The script will output a PDF file in the same folder, named like:
+`Homnix_Report_Mar-2026.pdf`
+
+Open this PDF to view:
+- Executive Summary
+- Product-Level Performance Breakdown
+- Cost Structure Analysis (per ASIN)
+- True Profit Analysis (if COGS was provided)
+- Strategic Recommendations

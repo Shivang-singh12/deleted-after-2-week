@@ -1,0 +1,40 @@
+AMAZON SALES ANALYSIS REPORT
+Period: N-A – N-A  |  Currency: INR
+
+==================================================
+SECTION 1: SALES SUMMARY
+==================================================
+
+Metric,Amount (INR)
+Gross Product Sales (0 orders),0.0
+Less: Returns (0 units),-0.0
+Net Sales (0 net units),0.0
+
+FEES & DEDUCTIONS,Amount (INR)
+Easy Ship / Postage Fees,-0.0
+Referral Fees,-0.0
+Sponsored Products (Ads),-0.0
+Total Fees,-0.0
+
+NET PROCEEDS TO SELLER,0.0
+
+UNITS SUMMARY,Count
+Units Sold,0
+Units Returned,0
+Net Units Sold,0
+
+
+==================================================
+SECTION 2: PRODUCT-BY-PRODUCT BREAKDOWN
+==================================================
+
+Product (MSKU),Units Sold,Returns,Net Units,Avg Price (INR),Net Sales (INR),Easy Ship (INR),Referral Fee (INR),Ad Spend (INR),Net Proceeds (INR),ACOS (%)
+TOTAL,0,0,0,—,0.0,0.0,0.0,0.0,0.0,—
+
+
+==================================================
+SECTION 3: KEY INSIGHTS & RECOMMENDATIONS
+==================================================
+
+Insight,Detail
+General,No critical issues detected. Review individual SKU performance for optimisation.
