@@ -1,6 +1,1 @@
-HX-CarMatPaper-150
-HX-CarMatPaper-50
-HX-CarMatPaper-200
-HX-CarMatPaper-100
-Shipping Labels- 4x6
-
+https://www.flipkart.com/homnix-microfiber-vehicle-washing-cloth/p/itmc602a8d999c4e?pid=VWCHMBVSRNHY7TQG
