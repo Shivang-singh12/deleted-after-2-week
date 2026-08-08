@@ -1,5 +1,1 @@
-https://www.flipkart.com/homnix-microfiber-vehicle-washing-cloth/p/itmc602a8d999c4e?pid=VWCHMBVSRNHY7TQG
-
-
-
-https://spcentral.amazon.in/redirect/account/permissions/request-client-invitation?tokenId=9096c26a-7796-426a-96ed-39351670ff1c
+406-7042974-6321940,405-0032375-1216320,407-1786485-4135557,408-6359955-6626707,407-6537226-2301154,171-3985600-7422764,404-3294495-4445105,404-0623833-2431505,404-1077170-4082723
