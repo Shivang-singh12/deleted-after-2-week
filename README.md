@@ -1,3 +1,3 @@
-https://www.amazon.in/dp/B0HF419J3N?th=1
+HX -MF1200-01-40*40-FBA
 
-https://www.amazon.in/dp/B0FTZDDCXS?th=1
+HX-MF1200-01-40x60-FBA
